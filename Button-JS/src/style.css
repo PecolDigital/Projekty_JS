@@ -1,0 +1,27 @@
+button    {
+    display: block;
+    margin: 10px auto;
+}
+div {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    margin: 5px;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+     border: 2px solid black;
+}
+
+.circle {
+    background: green;
+    border-radius: 50%;
+    color: white;
+    border: 2px solid black;
+}
+div {
+    height: 80px;
+    background-color: black;
+    width: 1200px;
+   
+}
